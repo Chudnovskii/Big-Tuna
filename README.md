@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/big-tuna-banner.png" alt="Big Tuna — phishing analysis" width="100%">
+  <img src="assets/Big-Tuna-Banner.png" alt="Big Tuna — phishing analysis" width="100%">
 </p>
 
 
@@ -20,4 +20,5 @@ No payloads, no forms, no real brands, and all links are safe (example.com or de
 
 ## License
 CC BY-NC 4.0
+
 
