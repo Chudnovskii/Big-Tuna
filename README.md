@@ -5,7 +5,7 @@
 
 # Phishing Awareness (Sanitized)
 
-This REPO contains two directories, one for legitimate phishing templatese observed in the wild (redacted/sanitized), 
+This REPO contains two directories, one for legitimate phishing templates observed in the wild (redacted/sanitized), 
 and one for custom templates that I have created and used successfully with internal tools such as Terranova and KnowB4.
 
 Fictional, **sanitized** HTML examples for security awareness.  
@@ -20,5 +20,6 @@ No payloads, no forms, no real brands, and all links are safe (example.com or de
 
 ## License
 CC BY-NC 4.0
+
 
 
